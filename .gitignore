@@ -7,3 +7,7 @@
 .lein-*
 
 /target
+
+.clj-kondo/.cache/2021.01.21-SNAPSHOT
+.calva/output-window
+.lsp

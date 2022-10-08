@@ -24,6 +24,14 @@ There's a talk about the motivation and design of the Dactyl that helps provide 
 * Make changes to design, repeat `load-file`, OpenSCAD will watch for changes and rerender.
 * When done, use OpenSCAD to export STL files
 
+Notes
+All screws used are m3x12 for the dactyl.  
+Brass knurled nuts m3x5x5 are used for to attatch the dactyl top and bottom case and the Manuform top and bottom cover.
+m3x12 screws and nuts are used to attatch the wrist rests to the case
+
+TRRS jack being used is SJ-43514.
+
+
 **Tips**
 * [Some other ways to evaluate the clojure design file](http://stackoverflow.com/a/28213489)
 * [Example designing with clojure](http://adereth.github.io/blog/2014/04/09/3d-printing-with-clojure/)
